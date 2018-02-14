@@ -1,1 +1,1 @@
-{"version":3,"file":"http-response-base-model.js","sourceRoot":"","sources":["../src/http-response-base-model.ts"],"names":[],"mappings":";;AAGA;IAEI,gBAAgB,CAAC;CAEpB;AAJD,sDAIC"}
+{"version":3,"file":"http-response-base-model.js","sourceRoot":"","sources":["../dist/http-response-base-model.ts"],"names":[],"mappings":";;AAGA,IAAA;IAEI;KAAiB;gCALrB;IAOC,CAAA;AAJqB,sDAAqB"}
